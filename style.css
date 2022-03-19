@@ -1,0 +1,9 @@
+.border{
+    border: 1px solid;
+}
+.hauteurFixe{
+    height: 25px;
+}
+.hauteurVariable{
+    height: 100%;
+}
